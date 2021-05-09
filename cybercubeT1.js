@@ -45,6 +45,6 @@ function getExtraLetter(s, t) {
 }
 
 console.log(`Example 1: ${getExtraLetter(s0, t0)}`);
-console.log(getExtraLetter(s1, t1));
-console.log(getExtraLetter(s2, t2));
-console.log(getExtraLetter(s3, t3));
+console.log(`Example 2: ${getExtraLetter(s1, t1)}`);
+console.log(`Example 3: ${getExtraLetter(s2, t2)}`);
+console.log(`Example 4: ${getExtraLetter(s3, t3)}`);
